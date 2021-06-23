@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Hashable'/>
+        <page name='OperatorOverload&amp;CustomOperators'/>
+        <page name='Generics'/>
+        <page name='MultipleReturnType'/>
+        <page name='FunctionParameters'/>
+        <page name='Typealias'/>
+        <page name='Enums'/>
+        <page name='EnumsOptionalAndRawValue'/>
+        <page name='EnumCaseIterable'/>
+        <page name='EnumAssociatedValues'/>
+        <page name='StackoverflowTest'/>
+        <page name='Reference vs Value Types'/>
+        <page name='Wrap value in reference'/>
+        <page name='Enums - custom raw values'/>
+        <page name='PracticePage'/>
+        <page name='Enums - indirect'/>
+    </pages>
+</playground>
